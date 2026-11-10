@@ -4,5 +4,6 @@
   "tagline": "Low-latency windowed joins for event streams",
   "lead": "Tomasz Wierzbicki",
   "summary": "A small engine for joining event streams with bounded state and low latency.",
-  "resource_path": "resources/streamjoin"
+  "resource_path": "resources/streamjoin",
+  "code_url": "https://github.com/komal74784391-netizen/beacon-research-hub-k7m2/tree/main/resources/streamjoin"
 }

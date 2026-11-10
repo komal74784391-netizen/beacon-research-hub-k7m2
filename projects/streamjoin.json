@@ -4,5 +4,5 @@
   "tagline": "Low-latency windowed joins for event streams",
   "lead": "Tomasz Wierzbicki",
   "summary": "A small engine for joining event streams with bounded state and low latency.",
-  "repo_name": "beacon-streamjoin-k7m2"
+  "resource_path": "resources/streamjoin"
 }

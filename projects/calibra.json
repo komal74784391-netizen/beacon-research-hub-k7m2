@@ -4,5 +4,5 @@
   "tagline": "Adaptive calibration for batched forecasters",
   "lead": "Ignacio Navarro",
   "summary": "Adaptive post-hoc calibration for forecasters that serve requests in batches.",
-  "repo_name": "beacon-calibra-k7m2"
+  "resource_path": "resources/calibra"
 }

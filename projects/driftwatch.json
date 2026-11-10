@@ -4,5 +4,6 @@
   "tagline": "Distribution-shift monitoring for production models",
   "lead": "Priya Raman",
   "summary": "Streaming monitors for covariate and label drift across production model fleets.",
-  "resource_path": "resources/driftwatch"
+  "resource_path": "resources/driftwatch",
+  "code_url": "https://github.com/komal74784391-netizen/beacon-research-hub-k7m2/tree/main/resources/driftwatch"
 }

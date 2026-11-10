@@ -5,5 +5,5 @@
   "lead": "Rafael Costa",
   "summary": "Static and runtime checks that keep producer and consumer contracts aligned.",
   "resource_path": "resources/schemalint",
-  "code_url": "https://github.com/komal74784391-netizen/beacon-research-hub-k7m2/tree/main/resources/schemalint"
+  "code_url": "https://github.com/harbor-analytics/beacon-schemalint"
 }

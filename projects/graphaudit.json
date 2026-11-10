@@ -1,0 +1,7 @@
+{
+  "slug": "graphaudit",
+  "title": "GraphAudit",
+  "tagline": "Provenance auditing for graph stores",
+  "lead": "Noor Haddad",
+  "summary": "Audit queries and provenance snapshots for graph-backed knowledge stores."
+}

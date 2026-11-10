@@ -1,0 +1,8 @@
+{
+  "slug": "quantile",
+  "title": "QuantileKit",
+  "tagline": "Calibrated interval forecasting utilities",
+  "lead": "Aisha Bello",
+  "summary": "Utilities for quantile regression and calibrated prediction intervals.",
+  "repo_name": "beacon-quantile-k7m2"
+}

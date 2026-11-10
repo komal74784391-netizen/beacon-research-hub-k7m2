@@ -1,2 +1,7 @@
-# beacon-research-hub-k7m2
-Beacon Metrics research program hub (Q4 2026)
+# Beacon Research Hub (Q4 2026)
+
+Coordination repository for the Beacon Metrics research program.
+
+- `docs/audit-checklist.md` — outstanding source markers for the release audit
+- `services/` — ingestion services bundled for the Q4 release
+- `projects/` — catalogue entries for each program project

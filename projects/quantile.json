@@ -4,5 +4,6 @@
   "tagline": "Calibrated interval forecasting utilities",
   "lead": "Aisha Bello",
   "summary": "Utilities for quantile regression and calibrated prediction intervals.",
-  "resource_path": "resources/quantile"
+  "resource_path": "resources/quantile",
+  "code_url": "https://github.com/komal74784391-netizen/beacon-research-hub-k7m2/tree/main/resources/quantile"
 }

@@ -1,0 +1,8 @@
+{
+  "slug": "driftwatch",
+  "title": "DriftWatch",
+  "tagline": "Distribution-shift monitoring for production models",
+  "lead": "Priya Raman",
+  "summary": "Streaming monitors for covariate and label drift across production model fleets.",
+  "repo_name": "beacon-driftwatch-k7m2"
+}

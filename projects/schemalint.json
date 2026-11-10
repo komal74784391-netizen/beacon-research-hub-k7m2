@@ -1,0 +1,9 @@
+{
+  "slug": "schemalint",
+  "title": "SchemaLint",
+  "tagline": "Contract checks for data pipelines",
+  "lead": "Rafael Costa",
+  "summary": "Static and runtime checks that keep producer and consumer contracts aligned.",
+  "repo_name": "beacon-schemalint-k7m2",
+  "repository": "https://github.com/harbor-analytics/beacon-schemalint"
+}
